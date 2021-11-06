@@ -1,0 +1,12 @@
+///ESTATUS 200
+todo ah salido bien
+
+///ESTATUS 201
+se ah creado
+
+
+//404///SE ENCARGA EL FRONTEND
+recurso que no se encontro
+
+
+//ERROR 500 O MAS ES CUANDO SALIO UN ERROR INESPERADO EN EL /// SE ENCARGA EL BACKEND
